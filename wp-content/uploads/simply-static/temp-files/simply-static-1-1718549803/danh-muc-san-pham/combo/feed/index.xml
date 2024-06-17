@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>combo - BlueShop</title>
+	<atom:link href="/danh-muc-san-pham/combo/feed" rel="self" type="application/rss+xml" />
+	<link>/danh-muc-san-pham/combo</link>
+	<description>Đây là website bán hàng</description>
+	<lastBuildDate>Sun, 16 Jun 2024 13:04:00 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<item>
+		<title>Combo trắng xóa</title>
+		<link>/san-pham/combo-trang-xoa</link>
+					<comments>/san-pham/combo-trang-xoa#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 16 Jun 2024 13:03:54 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=88</guid>
+
+					<description><![CDATA[<p>Phù hợp cho đi chơi ,ở nhà, đi học</p>
+<p>Bài viết <a href="/san-pham/combo-trang-xoa">Combo trắng xóa</a> đã xuất hiện đầu tiên vào ngày <a href="">BlueShop</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Phù hợp cho đi chơi ,ở nhà, đi học</p>
+<p>Bài viết <a href="/san-pham/combo-trang-xoa">Combo trắng xóa</a> đã xuất hiện đầu tiên vào ngày <a href="">BlueShop</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/san-pham/combo-trang-xoa/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">88</post-id>	</item>
+	</channel>
+</rss>
